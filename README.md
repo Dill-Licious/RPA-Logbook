@@ -47,6 +47,11 @@
     robot --version
     ```
 
+    The library that used on the robot:
+    ```
+    pip install selenium
+    ```
+
     we will be using data from Excel, also we need to install the DataDriver dependencies
 
     ```
