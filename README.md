@@ -32,6 +32,7 @@
    ```  
     **Note:** This program is built using the Robot Framework, which requires Python 3.8 or newer.
   <br>
+  
 2. **Install Robot Framework**
     In the development of this RPA, Robot Framework is used. Robot Framework is a powerful, open-source automation framework for software testing and RPA. It is low-code, meaning users can write automation scripts using simple, keyword-driven syntax, making it accessible to both technical and non-technical teams.
     
